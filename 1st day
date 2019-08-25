@@ -1,0 +1,5 @@
+document.write("مرحباً بكم في عالم البرمجة");
+document.write("\n\r");
+document.write(5+7);
+document.write(5%5);
+
